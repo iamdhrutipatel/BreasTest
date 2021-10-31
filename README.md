@@ -14,17 +14,16 @@ Libraries used in this project are as follows:
 - sklearn
 
 ## Installation Setup
-<b> 1. Clone the repository </b>
+### 1. Clone the repository
 You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breasttest.git``
-<br>
-<b> 2. Open ``#`` </b><br>
+### 2. Open ``#`` <br>
 You can open the ``.ipynb`` file using [Google Collab](https://colab.research.google.com/) or Jupyter Notebook <br>
 Don't have **Jupyter Notebook**? Don't worry, run the following commands and you're good to go 🚀 <br>
 > **$ pip install notebook** <br>
 > **$ jupyter notebook**<br>
-<b> 3. Execute all the cells consecutively to see the accurecy of all model and the graphical reprentaion of the data. </b> 
+### 3. Execute all the cells consecutively to see the accurecy of all model and the graphical reprentaion of the data. </b> 
 <br>
-<b> 4. After fireing the queries, at the end of all the algorithms we will be able to predict if the diagnosis is malignant or benign. </b> 
+### 4. After fireing the queries, at the end of all the algorithms we will be able to predict if the diagnosis is malignant or benign. </b> 
 
 ## Results
 The least square method was used to estimate the model, and the following Minitab results were obtained.
