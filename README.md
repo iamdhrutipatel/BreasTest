@@ -6,7 +6,7 @@ This repository contains 2 colab files 🗂️ that trains the model to predict 
 3. Artifical Neural Network
 
 ## Explanation of the Project
-- First, I've trained my model with artifical neural network to predict the if it is benign diagnosis or malignant diagnosis. In that learned so many things like how to deal with missing values or categorical values, etc.
+- First, I've trained my model with artifical neural network to predict, if it is a benign diagnosis or malignant diagnosis. In that learned so many things like how to deal with missing values or categorical values, etc.
 
 - Second, I've trained the model with logstic regression and random forest algorithms. Also, have done randomized search to find the best parameters to train the model.
 
