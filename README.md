@@ -1,4 +1,4 @@
-# Breasttest - Breast Cancer Prediction🎗️
+# BreastTest - Breast Cancer Prediction🎗️
 This repository contains 2 colab files 🗂️ that trains the model to predict whether it is a Malignant diagnosis or Benign diagnosis by using the supervised machine learning techniques and neural network techniques. This uses 3 different algorithms of Machine Learning:
 
 1. Logistic Regression
