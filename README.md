@@ -6,16 +6,15 @@ This repository contains 2 colab files 🗂️ that trains the model to predict 
 3. Artifical Neural Network
 
 ## Explanation of the Project
-- Edit here.
+- First, I've trained my model with artifical neural network to predict the if it is benign diagnosis or malignant diagnosis. In that learned so many things like how to deal with missing values or categorical values, etc.
 
-- We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the  trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
+- Second, I've trained the model with logstic regression and random forest algorithms. Also, have done randomized search to find the best parameters to train the model.
 
-- The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
+- The Dataset I've used to train my models is [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
 
-- To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
+- To find artifical neural network trained model follow this [link](https://github.com/iamdhrutipatel/Breasttest/blob/main/Breast_Cancer_Prediction_ANN.ipynb).
 
-- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
-  Thanks to them!
+- To find logistic regression and random forest trained model follow this [link](https://github.com/iamdhrutipatel/Breasttest/blob/main/Breast_Cancer_Prediction_LR_RF.ipynb).
   
 ## Libraries Used
 Libraries used in this project are as follows:
