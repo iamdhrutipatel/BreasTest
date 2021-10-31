@@ -28,7 +28,7 @@ Libraries used in this project are as follows:
 #### 1. Clone the repository
 You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breasttest.git``
 
-#### 2. Open ``#``
+#### 2. Open ``Breast_Cancer_Prediction_ANN.ipynb`` ``Breast_Cancer_Prediction_LR_RF.ipynb``
 You can open the ``.ipynb`` file using [Google Collab](https://colab.research.google.com/) or Jupyter Notebook.<br>
 Don't have **Jupyter Notebook**? Don't worry, run the following commands and you're good to go 🚀 
 > **$ pip install notebook** <br>
