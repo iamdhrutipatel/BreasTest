@@ -5,6 +5,16 @@ This repository contains 2 colab files 🗂️ that trains the model to predict 
 2. Random Forest
 3. Artifical Neural Network
 
+## Explanation of the Project
+- We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the  trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
+
+- The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
+
+- To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
+
+- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
+  Thanks to them!
+  
 ## Libraries Used
 Libraries used in this project are as follows:
 - numpy
