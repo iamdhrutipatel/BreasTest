@@ -17,11 +17,9 @@ Libraries used in this project are as follows:
 #### 1. Clone the repository
 You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breasttest.git``
 
-#### 2. Open ``#`` <br>
+#### 2. Open ``#``
 You can open the ``.ipynb`` file using [Google Collab](https://colab.research.google.com/) or Jupyter Notebook. 
-<br>
 Don't have **Jupyter Notebook**? Don't worry, run the following commands and you're good to go 🚀 
-<br>
 > **$ pip install notebook** <br>
 > **$ jupyter notebook**<br>
 
