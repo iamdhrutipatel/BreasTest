@@ -49,4 +49,4 @@ Final Logistic Regression | 95.56%
 <b>Final Logistic Regression is the model which I've trained after finding the best parameters to train the model.</b>
 
 ## Facing any issues???
-Feel free to [open an issue](https://github.com/iamdhrutipatel/Breasttest/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
+Feel free to [open an issue](https://github.com/iamdhrutipatel/BreastTest/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
