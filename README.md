@@ -36,7 +36,7 @@ Don't have **Jupyter Notebook**? Don't worry, run the following commands and you
 
 #### 3. Execute all the cells consecutively to see the accurecy of all model and the graphical reprentaion of the data.
 
-#### 4. After fireing the queries, at the end of all the algorithms we will be able to predict if the diagnosis is malignant or benign.
+#### 4. After firing the queries, at the end of all the algorithms we will be able to predict if the diagnosis is malignant or benign.
 
 ## Results
 Algorithm | Accuracy
