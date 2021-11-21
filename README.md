@@ -1,4 +1,4 @@
-# BreastTest - Breast Cancer Prediction🎗️
+# BreasTest - Breast Cancer Prediction🎗️
 This repository contains 2 colab files 🗂️ that trains the model to predict whether it is a Malignant diagnosis or Benign diagnosis by using the supervised machine learning techniques and neural network techniques. This uses 3 different algorithms of Machine Learning:
 
 1. Logistic Regression
@@ -26,7 +26,7 @@ Libraries used in this project are as follows:
 
 ## Installation Setup
 #### 1. Clone the repository
-You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breasttest.git``
+You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breastest.git``
 
 #### 2. Open ``Breast_Cancer_Prediction_ANN.ipynb``, ``Breast_Cancer_Prediction_LR_RF.ipynb``
 You can open the ``.ipynb`` file using [Google Collab](https://colab.research.google.com/) or Jupyter Notebook.<br>
@@ -49,4 +49,4 @@ Final Logistic Regression | 95.56%
 <b>Final Logistic Regression is the model which I've trained after finding the best parameters to train the model.</b>
 
 ## Facing any issues???
-Feel free to [open an issue](https://github.com/iamdhrutipatel/BreastTest/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
+Feel free to [open an issue](https://github.com/iamdhrutipatel/BreasTest/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
